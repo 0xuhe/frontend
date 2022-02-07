@@ -3,10 +3,10 @@ export const ZH_TRANSLATIONS_ZH = {
     welcome: "欢迎",
     
     // Header
-    trade: "贸易",
-    bridge :"区块链桥", 
+    trade: "交易",
+    bridge :"跨链桥", 
     list: "列表",
-    docs: "文件",
+    docs: "项目文档",
     pool: "矿池", 
     dsl: "DSL",
     zksync_mainnet: "zkSync - Mainnet",
